@@ -8,11 +8,17 @@ It uses a Doubly Linked List to store each digit and manually implements arithme
 🚀 Features
 
 ➕ Addition of large numbers
+
 ➖ Subtraction with full borrow handling
+
 ✖️ Multiplication using partial product accumulation
+
 ➗ Division using repeated subtraction and comparison
+
 ✔️ Supports numbers of any length (no overflow)
+
 ✔️ Custom validation for operands & operators
+
 ✔️ Clean modular structure (separate .c and .h files)
 
 🛠️ Technologies Used
