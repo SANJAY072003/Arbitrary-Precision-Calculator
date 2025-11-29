@@ -24,7 +24,11 @@ It uses a Doubly Linked List to store each digit and manually implements arithme
 🛠️ Technologies Used
 
 1.C Programming
+
 2.Doubly Linked Lists
+
 3.Dynamic Memory Allocation
+
 4.Algorithm Design
+
 5.Modular Programming
